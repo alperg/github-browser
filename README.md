@@ -1,7 +1,5 @@
 # github-browser
-A simple app to browse github repos for an account
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple app to browse github repos for an account. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
